@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>SMS Redirect</title>
+<script>
+window.location.href = "sms:7678?body=PORTABILIDADE";
+</script>
+</head>
+<body>
+<p>Caso não seja redirecionado automaticamente, clique abaixo:</p>
+<a href="sms:7678?body=ol%C3%A1%2C%20bom%20dia">Enviar SMS</a>
+</body>
+</html>
